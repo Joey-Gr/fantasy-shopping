@@ -1,0 +1,14 @@
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.exe
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.deps.json
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.runtimeconfig.json
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.runtimeconfig.dev.json
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.dll
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\bin\Debug\netcoreapp3.1\FantasyShopping.pdb
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.csproj.AssemblyReference.cache
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.AssemblyInfoInputs.cache
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.AssemblyInfo.cs
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.csproj.CoreCompileInputs.cache
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.dll
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.pdb
+C:\Users\joeyg\source\repos\FantasyShopping\FantasyShopping\obj\Debug\netcoreapp3.1\FantasyShopping.genruntimeconfig.cache
